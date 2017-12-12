@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-security-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aks
+Implementation-Vendor-Id: com.brushmyskills.security
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-s
+ ecurity-client/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
